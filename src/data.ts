@@ -3,7 +3,7 @@ import { AboutMeData, Game, GameEngine, LinkImageSource, MediaType, Platform } f
 export const PersonalInfo: AboutMeData = {
   name: "Daniel de Linos",
   role: "Technical Game Designer",
-  introduction: "",
+  introduction: "Contact: danieldelinosgarcia@gmail.com",
   description: " Highly passionate Game Designer with a focus on creativity and innovative gameplay mechanics, having won several creativity related video game and gamejam awards. Very knowledgeable in different areas of video game development, making working with other departments easier and more productive. ",
   image: `${process.env.PUBLIC_URL}/images/Profile.png`,
   cvUri: `${process.env.PUBLIC_URL}/files/Daniel de Linos - Technical Game Designer - CV.pdf`,
