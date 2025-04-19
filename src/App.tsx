@@ -33,11 +33,11 @@ const Navbar = styled.nav`
 const NavbarLink = styled(Link)`
   font-size: 2.2rem;
   text-decoration: none;
-  color: green;
+  color: blue;
   font-weight: bold;
 
   &:hover {
-    color: lightgreen;
+    color: lightblue;
   }
 
   &:active {
