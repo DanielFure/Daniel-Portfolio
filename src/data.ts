@@ -25,6 +25,7 @@ export const games: Game[] = [
     links: [
       { source: LinkImageSource.ItchIo, url: "https://jaime-hernandez.itch.io/midnight-snack" },
       { source: LinkImageSource.steam, url: "https://store.steampowered.com/app/3363200/Midnight_Snack/" },
+      { source: LinkImageSource.twitter, url: "https://x.com/MidnightSnackTG" },
       
     ],
     media: [
@@ -75,6 +76,7 @@ export const games: Game[] = [
     engine: GameEngine.Unity,
     links: [
       { source: LinkImageSource.ItchIo, url: "https://fure4.itch.io/crabfinder" },
+      { source: LinkImageSource.twitter, url: "https://x.com/crabfindergame" },
     ],
     media: [
       { source: "/images/games/Crabfinder/Screenshot_1.png", type: MediaType.Image },
@@ -91,6 +93,7 @@ export const games: Game[] = [
     engine: GameEngine.Unity,
     links: [
       { source: LinkImageSource.ItchIo, url: "https://fure4.itch.io/beacon" },
+      { source: LinkImageSource.twitter, url: "https://x.com/Beacon_GameDev" },
     ],
     media: [
       { source: "/images/games/Beacon/Screenshot_1.png", type: MediaType.Image },
