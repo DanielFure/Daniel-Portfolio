@@ -8,9 +8,10 @@ export const PersonalInfo: AboutMeData = {
   image: `${process.env.PUBLIC_URL}/images/Profile.png`,
   cvUri: `${process.env.PUBLIC_URL}/files/Daniel de Linos - Technical Game Designer - CV.pdf`,
   links: {
-    
+    github: "https://github.com/ddelinosgarciaMM2021",
     itchIO: "https://fure4.itch.io",
     linkedIn: "https://www.linkedin.com/in/daniel-de-linos",
+    
   }
 };
 
@@ -22,9 +23,7 @@ export const games: Game[] = [
     platforms: [Platform.Windows],
     engine: GameEngine.Unity,
     links: [
-      { name: "Steam", url: "https://store.steampowered.com/app/3363200/Midnight_Snack/" },
       { source: LinkImageSource.ItchIo, url: "https://jaime-hernandez.itch.io/midnight-snack" },
-      {  name: "Twitter/X", url: "https://x.com/MidnightSnackTG" },
     ],
     media: [
       { source: "/images/games/Midnight Snack/Screenshot_1.png", type: MediaType.Image },
@@ -40,6 +39,8 @@ export const games: Game[] = [
     genres: ["Exploration", "Flying", "Cozy"],
     platforms: [Platform.Windows],
     engine: GameEngine.Unity,
+    links: [
+    ],
     media: [
       { source: "/images/games/Unannounced Project/Screenshot_1.png", type: MediaType.Image },
       { source: "/images/games/Unannounced Project/Screenshot_2.png", type: MediaType.Image },
