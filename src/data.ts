@@ -24,6 +24,8 @@ export const games: Game[] = [
     engine: GameEngine.Unity,
     links: [
       { source: LinkImageSource.ItchIo, url: "https://jaime-hernandez.itch.io/midnight-snack" },
+      { source: LinkImageSource.steam, url: "https://store.steampowered.com/app/3363200/Midnight_Snack/" },
+      
     ],
     media: [
       { source: "/images/games/Midnight Snack/Screenshot_1.png", type: MediaType.Image },
@@ -108,10 +110,10 @@ export const games: Game[] = [
       { source: LinkImageSource.ItchIo, url: "https://fure4.itch.io/readme" },
     ],
     media: [
-      { source: "/images/games/GAME_NAME/Screenshot_1.png", type: MediaType.Image },
-      { source: "/images/games/GAME_NAME/Screenshot_2.png", type: MediaType.Image },
-      { source: "/images/games/GAME_NAME/Screenshot_3.png", type: MediaType.Image },
-      { source: "/images/games/GAME_NAME/Screenshot_4.png", type: MediaType.Image },
+      { source: "/images/games/README/Screenshot_1.png", type: MediaType.Image },
+      { source: "/images/games/README/Screenshot_2.png", type: MediaType.Image },
+      { source: "/images/games/README/Screenshot_3.png", type: MediaType.Image },
+      { source: "/images/games/README/Screenshot_4.png", type: MediaType.Image },
     ],
   }
 ];
