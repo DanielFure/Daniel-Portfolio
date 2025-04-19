@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Daniel-Portfolio/static/css/main.04ec6624.css",
+    "main.css": "/Daniel-Portfolio/static/css/main.c16f879e.css",
     "main.js": "/Daniel-Portfolio/static/js/main.8c9aeaf6.js",
-    "static/media/Background.jpg": "/Daniel-Portfolio/static/media/Background.ff03b3b7a1cea9f62767.jpg",
+    "static/media/Background.jpg": "/Daniel-Portfolio/static/media/Background.a1fe02af6a9c7860e672.jpg",
     "static/media/Oxanium.ttf": "/Daniel-Portfolio/static/media/Oxanium.50bb18b058c797a89438.ttf",
     "static/media/PhoenixGaming.ttf": "/Daniel-Portfolio/static/media/PhoenixGaming.52b75a56ef9f70c20259.ttf",
     "static/media/ZenDots.ttf": "/Daniel-Portfolio/static/media/ZenDots.ad9e0d65654bb49213b6.ttf",
     "static/media/PixelGame.otf": "/Daniel-Portfolio/static/media/PixelGame.a7040ee1df82fd46813b.otf",
     "index.html": "/Daniel-Portfolio/index.html",
-    "main.04ec6624.css.map": "/Daniel-Portfolio/static/css/main.04ec6624.css.map",
+    "main.c16f879e.css.map": "/Daniel-Portfolio/static/css/main.c16f879e.css.map",
     "main.8c9aeaf6.js.map": "/Daniel-Portfolio/static/js/main.8c9aeaf6.js.map"
   },
   "entrypoints": [
-    "static/css/main.04ec6624.css",
+    "static/css/main.c16f879e.css",
     "static/js/main.8c9aeaf6.js"
   ]
 }
