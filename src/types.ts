@@ -1,5 +1,4 @@
 export enum LinkImageSource {
-  Github = "/images/logos/github.png",
   ItchIo = "/images/logos/itch.io.png",
   steam = "/images/logos/steam.png",
   twitter = "/images/logos/twitter.png"
@@ -36,7 +35,6 @@ export interface AboutMeData {
   image: string;
   cvUri: string;
   links: {
-    github: string;
     itchIO: string;
     linkedIn: string;
   };
@@ -45,6 +43,7 @@ export interface AboutMeData {
 export interface Game {
   name: string;
   description: string;
+  inChargeOf: string[];
   genres: string[];
   source?: { name: string; url: string };
   links: { source: LinkImageSource; url: string }[];
