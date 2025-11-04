@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Daniel-Portfolio/static/css/main.468ac571.css",
-    "main.js": "/Daniel-Portfolio/static/js/main.dd4d70ac.js",
+    "main.css": "/Daniel-Portfolio/static/css/main.2b6ceeb7.css",
+    "main.js": "/Daniel-Portfolio/static/js/main.ff795ca3.js",
     "static/media/Background.jpg": "/Daniel-Portfolio/static/media/Background.d59cba511681a6eaf0e7.jpg",
     "static/media/Oxanium.ttf": "/Daniel-Portfolio/static/media/Oxanium.50bb18b058c797a89438.ttf",
     "static/media/PhoenixGaming.ttf": "/Daniel-Portfolio/static/media/PhoenixGaming.52b75a56ef9f70c20259.ttf",
     "static/media/ZenDots.ttf": "/Daniel-Portfolio/static/media/ZenDots.ad9e0d65654bb49213b6.ttf",
     "static/media/PixelGame.otf": "/Daniel-Portfolio/static/media/PixelGame.a7040ee1df82fd46813b.otf",
     "index.html": "/Daniel-Portfolio/index.html",
-    "main.468ac571.css.map": "/Daniel-Portfolio/static/css/main.468ac571.css.map",
-    "main.dd4d70ac.js.map": "/Daniel-Portfolio/static/js/main.dd4d70ac.js.map"
+    "main.2b6ceeb7.css.map": "/Daniel-Portfolio/static/css/main.2b6ceeb7.css.map",
+    "main.ff795ca3.js.map": "/Daniel-Portfolio/static/js/main.ff795ca3.js.map"
   },
   "entrypoints": [
-    "static/css/main.468ac571.css",
-    "static/js/main.dd4d70ac.js"
+    "static/css/main.2b6ceeb7.css",
+    "static/js/main.ff795ca3.js"
   ]
 }
